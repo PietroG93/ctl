@@ -12,7 +12,6 @@ conceptmap "OBSstatus" {
   conceptmap "cm-v3-administrative-gender" {
     prefix s = "http://terminology.hl7.org/ValueSet/v3-AdministrativeGender"
     prefix t = "http://hl7.org/fhir/ValueSet/administrative-gender"
-  
     s:M == t:male
     s:F == t:female
   }

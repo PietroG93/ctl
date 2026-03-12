@@ -1,4 +1,4 @@
-XXXXXXXXXXX<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- schematron versione: 2.1 -->
 <schema xmlns="http://purl.oclc.org/dsdl/schematron" 
 		xmlns:cda="urn:hl7-org:v3"
@@ -8,6 +8,7 @@ XXXXXXXXXXX<?xml version="1.0" encoding="UTF-8"?>
 	<title>Schematron Certificato Vaccinale v 1.1</title>
 	<ns prefix="hl7" uri="urn:hl7-org:v3"/>
 	<ns prefix="xsi" uri="http://www.w3.org/2001/XMLSchema-instance"/>
+	
 	<pattern id="all">
 
 
